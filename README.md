@@ -1,3 +1,4 @@
+<img width="803" height="541" alt="image" src="https://github.com/user-attachments/assets/3caca855-1995-49d6-affa-415e2cd64ddf" />
 💰 Harcama Takip Sistemi (N-Tier Architecture)
 Bu proje, kişisel harcamaların yönetilmesi amacıyla Katmanlı Mimari (N-Tier Architecture) yapısı kullanılarak geliştirilmiş bir .NET Windows Forms uygulamasıdır. Projede veritabanı işlemleri için Entity Framework Core kullanılmıştır.
 
